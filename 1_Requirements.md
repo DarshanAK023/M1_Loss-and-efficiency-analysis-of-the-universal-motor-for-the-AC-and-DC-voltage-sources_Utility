@@ -10,3 +10,7 @@ programming. The matlab Simulink is used for getting torque speed characteristic
 universal motor and to exhibit the speed control of the motor using tapped field winding
 method.
 
+# Reqiurements
+## High level requirements
+## Low level requirements
+
