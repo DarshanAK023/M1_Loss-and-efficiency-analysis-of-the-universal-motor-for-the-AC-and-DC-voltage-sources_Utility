@@ -1,5 +1,4 @@
 # Discription
-
 ## 
 A universal motor is a special type of motor. This motor works on both AC and DC supply.
 In this project, the universal motor performance for AC and DC sources are compared.
