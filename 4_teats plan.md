@@ -41,3 +41,11 @@ Step9: Copying the values of currents into file current.xls
 Step10: Closing all files declared.
 
 Step11: End.
+
+# Analysis
+The speed of universal motorcan be controlled by tapped winding technique. The plotting results for both AC and DC are
+shown for variation of speed with flux and speed with torque. We have compared the
+efficiency for AC and DC supplies and we found DC is more efficient than AC.In the future
+scope, to improve the efficiency of the universal motor better algorithm can be developed for
+calculating iron losses with prominence on the rotor. In this paper, the high rotor field
+frequency and due to the eddy currents weakening of the magnetic field is not considered
