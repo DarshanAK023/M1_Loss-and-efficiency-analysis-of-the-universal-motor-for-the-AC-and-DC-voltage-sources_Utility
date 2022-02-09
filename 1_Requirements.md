@@ -29,3 +29,7 @@ method.
 2) To control the speed of the universal motor by tapped field winding technique.
 3) To obtain the solution for the universal motor equations using c programming with the help of Euler's method.
 4) To simulate the universal motor for the AC and DC voltage sources.
+
+# 4W's 1-H..
+# SWOT Analysis..
+# best methodes to fallow...
