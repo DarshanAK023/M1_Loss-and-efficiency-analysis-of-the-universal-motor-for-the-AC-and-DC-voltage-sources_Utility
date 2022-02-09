@@ -12,4 +12,4 @@ Github Learnig
 
 Points on Hacker Earth
 
-![Screenshot (3)](https://user-images.githubusercontent.com/98837660/152684099-27fe76ae-20db-4e8b-9ae7-4c3ee8a21cc1.png)
+![Hacker earth](https://user-images.githubusercontent.com/98837660/153258028-c85f0352-6ac2-4cf3-86df-ffaa3328a354.png)
