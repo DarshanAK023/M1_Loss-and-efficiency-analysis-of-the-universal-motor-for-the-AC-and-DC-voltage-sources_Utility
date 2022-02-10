@@ -31,5 +31,16 @@ method.
 4) To simulate the universal motor for the AC and DC voltage sources.
 
 # 4W's 1-H..
+
+ # *What
+ # *Why
+ # *When
+ # *Where
+ # *Who
+ # *How
 # SWOT Analysis..
+  # Strengths
+  # Weakness
+  # Opportunities
+  # Threts
 # best methodes to fallow...
