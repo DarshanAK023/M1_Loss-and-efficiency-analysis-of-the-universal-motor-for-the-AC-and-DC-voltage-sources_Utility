@@ -44,3 +44,11 @@ method.
   # Opportunities
   # Threts
 # best methodes to fallow...
+  Basic Requirements
+- ## C programming Knowledge
+- ## C code Compiling Softwares
+    - ###  Visual studio code 
+    - ###  Codeblocks
+- ##  MS Excel
+   - ### For Gantt Chart
+- ## Knowledge of UML diagram
