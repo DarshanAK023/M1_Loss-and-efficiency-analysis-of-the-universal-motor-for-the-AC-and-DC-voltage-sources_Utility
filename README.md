@@ -6,9 +6,12 @@
 # Codiga
 ### code  quality score
 ![image](https://user-images.githubusercontent.com/98837660/153539286-2a6c915d-3301-4a95-bac0-8daed01ab77a.png)
-
 ###  project quality,code Grade
 ![image](https://user-images.githubusercontent.com/98837660/153539308-b8839d3d-ddbc-4db8-8032-558d681cd1f9.png)
+
+[![CI](https://github.com/DarshanAkolavi/M1_Universal-Motor_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/DarshanAkolavi/M1_Universal-Motor_Utility/actions/workflows/main.yml)
+
+
 
 # project folder Structure and Documentation 
  ## 1_REQUIREMENT
