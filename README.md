@@ -4,6 +4,8 @@
 <a href="https://www.codacy.com/gh/DarshanAkolavi/M1_Universal-Motor_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DarshanAkolavi/M1_Universal-Motor_Utility&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/07934671943e4a6fba6c942b56e6afd2"/></a>
 
 # Codiga
- <https://api.codiga.io/project/31000/score/svg>
+# code  quality score
+![image](https://user-images.githubusercontent.com/98837660/153539286-2a6c915d-3301-4a95-bac0-8daed01ab77a.png)
 
-https://api.codiga.io/project/31000/status/svg
+# project quality,code Grade
+![image](https://user-images.githubusercontent.com/98837660/153539308-b8839d3d-ddbc-4db8-8032-558d681cd1f9.png)
