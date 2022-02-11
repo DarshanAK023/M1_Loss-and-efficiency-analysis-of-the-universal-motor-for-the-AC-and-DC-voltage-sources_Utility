@@ -5,3 +5,5 @@
 
 # Codiga
  <https://api.codiga.io/project/31000/score/svg>
+
+https://api.codiga.io/project/31000/status/svg
