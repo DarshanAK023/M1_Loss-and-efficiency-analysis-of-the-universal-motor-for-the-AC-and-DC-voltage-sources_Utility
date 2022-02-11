@@ -7,7 +7,7 @@
  float hysterisisloss(float Bmax);
  float eddycurrent_loss(float Bmax);
   
-#for itarations
+#itarations
 cl_1=armatureloss(76.5);
 cl_2=armatureloss(73.26);
 fl_1=fieldloss(4.25);
