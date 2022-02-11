@@ -9,3 +9,17 @@
 
 ###  project quality,code Grade
 ![image](https://user-images.githubusercontent.com/98837660/153539308-b8839d3d-ddbc-4db8-8032-558d681cd1f9.png)
+
+# project folder Structure and Documentation 
+ ## 1_REQUIREMENT
+   ### Reaserch,4W1H,SWOT,HLR,LLR,
+ ## 2_DESIGN
+   ### High level And Low level Designs.
+ ## 3_IMPLEMENTATION
+  ### makefile,README with Execution,
+ ## 4_TESTPLAN & OUTPUT
+  ### Output of different inputs,analysiss etc.
+ ## 5_REPORT
+  ### [MiniprojectReport.docx](https://github.com/DarshanAkolavi/M1_Universal-Motor_Utility/files/8047567/MiniprojectReport.docx)
+ ## 6_vidioAndImages
+  ### 
