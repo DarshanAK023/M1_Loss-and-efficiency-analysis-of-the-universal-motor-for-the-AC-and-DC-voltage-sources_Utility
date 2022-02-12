@@ -1,3 +1,7 @@
+#ifndef UniversalMotor_H_
+#define UniversalMotor_H_
+
+
 #include<stdio.h>
 #include<math.h>
 
